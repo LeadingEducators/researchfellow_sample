@@ -9,11 +9,11 @@ This repo contains a sample dataset using publicly available student math assess
 * "students_enrolled" number of students enrolled in this grade in this school in this year
 * "students_tested"  number of students enrolled in this grade in this school in this year
 * "mean_scale_score"  
-* "std_score"
-* "frl_pt" percentage of students who qualify for Free or Reduced Lunch in this grade in this school in this year
-* "mll_pt" percentage of students who are multi-lingual learners in this grade in this school in this year           
-* "b_pt" percentage of students who are Black in this grade in this school in this year
-* "h_pt" percentage of students who are Hispanic in this grade in this school in this year
-* "a_pt" percentage of students who are Asian in this grade in this school in this year
-* "w_pt" percentage of students who are White in this grade in this school in this year
+* "std_score" standardized test scores
+* "frl_pt" percentage of students who qualify for Free or Reduced Lunch
+* "mll_pt" percentage of students who are multi-lingual learners           
+* "b_pt" percentage of students who are Black
+* "h_pt" percentage of students who are Hispanic
+* "a_pt" percentage of students who are Asian
+* "w_pt" percentage of students who are White
 
